@@ -21,3 +21,5 @@ fields:
   config:
     required: false
   label: description
+pages:
+- blog/post/2021-01-26.md
