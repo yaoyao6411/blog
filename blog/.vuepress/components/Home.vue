@@ -1,6 +1,6 @@
 <template>
   <div class="wrapper">
-    <p>zenggo的博客</p>
+    <p>yaoyao的博客</p>
     <div class="img-wrapper">
       <img class="homebg" src="/blogbg.jpg">
     </div>

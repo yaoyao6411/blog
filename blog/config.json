@@ -1,12 +1,18 @@
 {
-    "title": "zenggo",
+    "title": "yaoyao",
     "description": "BLOG",
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
-        "text": "Github",
-        "link": "https://github.com/zenggo",
+        "text": "Email me!",
+        "link": "mailto:yaoyao6411@gmail.com",
         "position": "right",
+        "external": true
+      },
+      {
+        "text": "Instagram",
+        "link": "https://www.instagram.com/yaoyao_liuu",
+        "position": "left",
         "external": true
       },
       {

@@ -1,10 +1,10 @@
 {
-  "name": "zenggoblog",
+  "name": "yaoyaoblog",
   "scripts": {
     "build": "vuepress build blog",
     "dev": "vuepress dev blog"
   },
-  "author": "zenggo",
+  "author": "yaoyao",
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.4",
